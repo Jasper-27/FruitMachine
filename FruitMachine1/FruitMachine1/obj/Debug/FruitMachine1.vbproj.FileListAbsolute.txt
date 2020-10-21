@@ -1,0 +1,43 @@
+n:/visual studio 2015/Projects/FruitMachine1/FruitMachine1/bin/Debug/FruitMachine1.exe.config
+n:/visual studio 2015/Projects/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.Resources.resources
+n:/visual studio 2015/Projects/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.vbproj.GenerateResource.Cache
+N:/Visual Studio 2015/Projects/FruitMachine1/FruitMachine1/bin/Debug/FruitMachine1.exe
+N:/Visual Studio 2015/Projects/FruitMachine1/FruitMachine1/bin/Debug/FruitMachine1.pdb
+N:/Visual Studio 2015/Projects/FruitMachine1/FruitMachine1/bin/Debug/FruitMachine1.xml
+N:/Visual Studio 2015/Projects/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.vbprojResolveAssemblyReference.cache
+N:/Visual Studio 2015/Projects/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.Form1.resources
+N:/Visual Studio 2015/Projects/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.exe
+N:/Visual Studio 2015/Projects/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.xml
+N:/Visual Studio 2015/Projects/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.pdb
+/Volumes/JJCFlashDri/Programming/VB.net/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.vbprojResolveAssemblyReference.cache
+/Volumes/JJCFlashDri/Programming/VB.net/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.Form1.resources
+/Volumes/JJCFlashDri/Programming/VB.net/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.Resources.resources
+/Volumes/JJCFlashDri/Programming/VB.net/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.vbproj.GenerateResource.Cache
+/Volumes/JJCFlashDri/Programming/VB.net/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.vbproj.CoreCompileInputs.cache
+/Volumes/JJCFlashDri/Programming/VB.net/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.exe
+/Volumes/JJCFlashDri/Programming/VB.net/FruitMachine1/FruitMachine1/obj/Debug/FruitMachine1.xml
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\bin\Debug\FruitMachine1.exe.config
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.exe
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.xml
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.pdb
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\bin\Debug\FruitMachine1.exe
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\bin\Debug\FruitMachine1.pdb
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\bin\Debug\FruitMachine1.xml
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.vbprojResolveAssemblyReference.cache
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.Form1.resources
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.Resources.resources
+I:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.vbproj.GenerateResource.Cache
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\bin\Debug\FruitMachine1.exe.config
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\bin\Debug\FruitMachine1.exe
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\bin\Debug\FruitMachine1.pdb
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\bin\Debug\FruitMachine1.xml
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.vbprojResolveAssemblyReference.cache
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.Form1.resources
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.Resources.resources
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.vbproj.GenerateResource.Cache
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.vbproj.CoreCompileInputs.cache
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.exe
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.xml
+F:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.pdb
+E:\Programming\VB.net\FruitMachine1\FruitMachine1\obj\Debug\FruitMachine1.vbprojResolveAssemblyReference.cache
+E:\Programming\VB.net\FruitMachine1\FruitMachine1\bin\Debug\FruitMachine1.exe.config
